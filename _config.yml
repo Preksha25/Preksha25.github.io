@@ -13,7 +13,7 @@ name                     : &name "Preksha Nema"
 description              : &description "She is a Ph.D. scholar at IIT Madras under the guidance of Prof. Mitesh M. Khapra and Prof. Balaraman Ravindran. She was awarded Google Ph.D. Fellowship India, in 2017. Her research interests are Interpretable NLP models, Natural Language Generation, Question Answering and Deep Learning. Before joining Ph.D., she was a System Software Engineer in Nvidia, Pune."
 url                      : https://Preksha25.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Preksha25/Preksha25.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
